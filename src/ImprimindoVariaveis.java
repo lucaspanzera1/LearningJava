@@ -18,8 +18,17 @@ public class ImprimindoVariaveis {
             3º Iniciar uma varável usando o "=" // ex: = 10
          */
         int idade = 10;
+        double salarioDouble = 3000;
+        float salarioFloat = 3000;
+        byte idadeByte = 12;
+        short idadeShort = 32767;
+        boolean verdadeiro = true;
+        boolean falso = false;
+        long numeroGrande = 1000L;
+        char caractere = '\u0041'; //2 Bytes
+        String nome = "Lucas";
         // Para exibir a váriavel
         System.out.println(idade);
-        System.out.println("A idade é: " + idade);
+        System.out.println(caractere);
     }
 }

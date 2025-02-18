@@ -124,4 +124,26 @@ boolean
 char
 byte
 short
-long
+long 
+```
+
+### Dia 02
+
+#### Aula 06 ✅
+
+Para escrever variáveis e texto, fazemos da seguinte maneira.
+```plaintext
+System.out.println("Texto" +variável);
+```
+
+### Operadores Simples
+| Operador | Descrição | Exemplo |
+|----------|-----------|---------|
+| + | Adição | `a + b` |
+| - | Subtração | `a - b` |
+| * | Multiplicação | `a * b` |
+| / | Divisão | `a / b` |
+| % | Módulo (resto da divisão) | `a % b` |
+| ++ | Incremento | `a++` ou `++a` |
+| -- | Decremento | `a--` ou `--a` |
+
