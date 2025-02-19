@@ -147,3 +147,41 @@ System.out.println("Texto" +variável);
 | ++ | Incremento | `a++` ou `++a` |
 | -- | Decremento | `a--` ou `--a` |
 
+### Dia 03
+
+#### Aula 07 ✅
+
+### Operadores de Resto
+O operador resto (%) retorna o resto da divisão entre dois números.
+```java
+int resto = numerador % denominador;
+```
+
+### Operadores de Comparação
+
+#### Igualdade (==) e Diferença (!=)
+```java
+int a = 5;
+int b = 7;
+
+boolean igual = (a == b);      // false
+boolean diferente = (a != b);  // true
+```
+
+#### Maior que (>) e Menor que (<)
+```java
+int x = 10;
+int y = 5;
+
+boolean maiorQue = (x > y);     // true
+boolean menorQue = (x < y);     // false
+```
+
+#### Maior ou Igual (>=) e Menor ou Igual (<=)
+```java
+int m = 8;
+int n = 8;
+
+boolean maiorOuIgual = (m >= n);    // true
+boolean menorOuIgual = (m <= n);    // true
+```

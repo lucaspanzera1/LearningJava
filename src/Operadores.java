@@ -10,5 +10,6 @@ public class Operadores {
         System.out.println("A subtração é " +subtracao);
         System.out.println("A multiplicação é " +multiplicacao);
         System.out.println("A divisão é " +divisao);
+        System.out.println("Resto da divisão "+ (21%2));
     }
 }
